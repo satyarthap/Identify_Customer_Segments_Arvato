@@ -5,7 +5,7 @@ Unsupervised Machine Learning can be used to identify clusters that are similar 
 
 These segments can then be used to direct marketing campaigns towards audiences that will have the highest expected rate of returns. The data has been provided by Bertelsmann Arvato Analytics, and represents a real-life data science task.
 
-##Data
+## Data
 There are four files associated with this project (not including this one):
 
 - `Udacity_AZDIAS_Subset.csv`: Demographics data for the general population of Germany; 891211 persons (rows) x 85 features (columns).
@@ -15,7 +15,7 @@ There are four files associated with this project (not including this one):
 
 Each row of the demographics files represents a single person, but also includes information outside of individuals, including information about their household, building, and neighborhood. 
 
-##Approach
+## Approach
 The population data has been used to cluster the general population into groups with similar demographic properties. 
 
 Then, It was observed how people in the customers data set fit into these created clusters.
